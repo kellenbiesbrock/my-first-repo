@@ -1,0 +1,17 @@
+commit 40cc8f8efb6fa1cbe1530db15f6b7db5c66c066d
+Author: kellenbiesbrock <kellenbiesbrock2@gmail.com>
+Date:   Tue Jan 28 16:01:49 2020 -0500
+
+    added gitignore
+
+commit 1f9fe96bbba49dfb3a61cd2118f32d45861594eb
+Author: kellenbiesbrock <kellenbiesbrock2@gmail.com>
+Date:   Tue Jan 28 15:29:32 2020 -0500
+
+    added two files
+
+commit 57a0b952e739da0cda7e20434cbc09c7b1291b88
+Author: kellenbiesbrock <kellenbiesbrock2@gmail.com>
+Date:   Tue Jan 28 15:26:46 2020 -0500
+
+    added readme.txt
